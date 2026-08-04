@@ -28,6 +28,7 @@ file differs. Per-client setup (config + a "when to use it" rule):
 - **Windsurf** → [`windsurf/`](windsurf/README.md)
 - **Codex CLI** → [`codex/`](codex/README.md)
 - **OpenClaw** → [`openclaw/`](openclaw/README.md)
+- **CrowClaw** → [`crowclaw/`](crowclaw/README.md)
 - **Any other MCP client** (Zed, Cline, Continue, …) — add a stdio server whose
   command is `mw-mcp` (no arguments). It honours `MEMORYWHALE_DATA_DIR` like the
   rest of the CLI.
